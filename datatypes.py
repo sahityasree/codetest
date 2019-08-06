@@ -93,6 +93,7 @@ def Dicts():
     print("the values after update",dict)
     del dict['Name']
     print("after removing ",dict)
+    print("")
 Dicts()   
     
     
