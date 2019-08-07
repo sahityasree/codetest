@@ -11,6 +11,7 @@ def Numbers():
     print ("random number : ", random.random())
     list = [20, 16, 10, 5];
     random.shuffle(list)
+    print("")
     print("the shuffle of list is ",list)
     
 def Strings():
